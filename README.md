@@ -8,6 +8,8 @@ This project uses the following frameworks and libraries, click the links for th
 
 1. [SvelteKit](https://kit.svelte.dev/docs/introduction) / [Svelte](https://svelte.dev/docs): framework
 2. [TailwindCSS](https://tailwindcss.com/): CSS but (much) easier to use
+
+Updated on 2023-06-15.
 3. [DaisyUI](https://daisyui.com/): UI library based on TailwindCSS
 4. [Svelte-Geolocation](https://github.com/metonym/svelte-geolocation): Geolocation API wrapper for Svelte
 5. [Svelte-MapLibre](https://github.com/dimfeld/svelte-maplibre): MapLibre wrapper for Svelte
