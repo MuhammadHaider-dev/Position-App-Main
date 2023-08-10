@@ -1,3 +1,4 @@
+// Tailwind CSS configuration for Position App
 import typography from '@tailwindcss/typography'
 import daisyui from 'daisyui'
 
